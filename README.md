@@ -14,9 +14,6 @@
     <img src="https://raw.githubusercontent.com/steverhall/steverhall/main/svg/dev/misc/mc4h.svg" alt="Microsoft MC4H">
   </a>
   </div>
-<div  style="padding: 16px">
-Healthcare Innovation
-</div>
 </p>
 
 ### Stuff I work with
