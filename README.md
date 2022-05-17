@@ -1,10 +1,28 @@
-### Hi there 👋
+## Hi there 👋
 
-Working on:
-
-Stuff I work with:
+### Working on
 
 <p>
+  <div  style="padding: 16px">
+  <a href="https://www.microsoft.com/en-us/industry/health/microsoft-cloud-for-healthcare">
+    <img src="https://raw.githubusercontent.com/steverhall/steverhall/main/svg/dev/misc/healthcare.svg" alt="Healthcare Innovation">
+  </a>
+  <a href="https://www.fhir.org/">
+    <img src="https://raw.githubusercontent.com/steverhall/steverhall/main/svg/dev/misc/fhir.svg" alt="FHIR">
+  </a>
+  <a href="https://www.microsoft.com/en-us/industry/health/microsoft-cloud-for-healthcare">
+    <img src="https://raw.githubusercontent.com/steverhall/steverhall/main/svg/dev/misc/mc4h.svg" alt="Microsoft MC4H">
+  </a>
+  </div>
+<div  style="padding: 16px">
+Healthcare Innovation
+</div>
+</p>
+
+### Stuff I work with
+
+<p>
+  <div  style="padding: 16px">
   <a href="https://azure.microsoft.com/en-gb/">
     <img src="https://raw.githubusercontent.com/steverhall/steverhall/main/svg/dev/services/azure.svg" alt="Azure">
   </a>
@@ -46,18 +64,20 @@ Stuff I work with:
       <img src="https://raw.githubusercontent.com/steverhall/steverhall/main/svg/dev/frameworks/nodejs.svg" alt="NodeJS">
   </a>
 </p>
-<br>
+</div>
 
-Learning:
-
+### Learning
+<div  style="padding: 16px">
   <a href="https://www.rust-lang.org/">
       <img src="https://raw.githubusercontent.com/steverhall/steverhall/main/svg/dev/languages/rust.svg" alt="Rust">
   </a>
 
+  <br>
+
   <a href="https://www.duolingo.com/course/it/en/Learn-Italian">
       <img src="https://raw.githubusercontent.com/steverhall/steverhall/main/svg/languages/italian.svg" alt="Italian">
   </a>
-
+</div>
 
 
 
@@ -67,11 +87,11 @@ Learning:
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
+- ⚡ Fun fact: ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
