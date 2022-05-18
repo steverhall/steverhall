@@ -42,17 +42,20 @@
 
   <br>
 
-  <a href="https://github.com/apple/swift">
-    <img src="https://raw.githubusercontent.com/steverhall/steverhall/main/svg/dev/languages/swift.svg" alt="Swift" style="padding-right: 10px">
-  </a>
   <a href="https://dotnet.microsoft.com/en-us/languages/csharp">
       <img src="https://raw.githubusercontent.com/steverhall/steverhall/main/svg/dev/languages/csharp_dotnet.svg" alt="CSharp" style="padding-right: 10px">
   </a>
-  <a href="https://www.python.org/">
-      <img src="https://raw.githubusercontent.com/steverhall/steverhall/main/svg/dev/languages/python.svg" alt="Python" style="padding-right: 10px">
-  </a>
   <a href="https://dart.dev/">
       <img src="https://raw.githubusercontent.com/steverhall/steverhall/main/svg/dev/languages/dart.svg" alt="Dart">
+  </a>
+  <a href="https://github.com/apple/swift">
+    <img src="https://raw.githubusercontent.com/steverhall/steverhall/main/svg/dev/languages/swift.svg" alt="Swift" style="padding-right: 10px">
+  </a>
+  <a href="https://www.typescriptlang.org/">
+      <img src="https://raw.githubusercontent.com/steverhall/steverhall/main/svg/dev/languages/typescript.svg" alt="TypeScript" style="padding-right: 10px">
+  </a>
+  <a href="https://www.python.org/">
+      <img src="https://raw.githubusercontent.com/steverhall/steverhall/main/svg/dev/languages/python.svg" alt="Python" style="padding-right: 10px">
   </a>
 
   <br>
@@ -63,10 +66,13 @@
 </p>
 </div>
 
-### Learning
+### Learning and Playing
 <div  style="padding: 16px">
   <a href="https://www.rust-lang.org/">
       <img src="https://raw.githubusercontent.com/steverhall/steverhall/main/svg/dev/languages/rust.svg" alt="Rust">
+  </a>
+  <a href="https://go.dev/">
+      <img src="https://raw.githubusercontent.com/steverhall/steverhall/main/svg/dev/languages/go.svg" alt="Go">
   </a>
 
   <br>
