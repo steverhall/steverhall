@@ -7,9 +7,6 @@
   <a href="https://www.microsoft.com/en-us/industry/health/microsoft-cloud-for-healthcare" style="padding-right: 10px">
     <img src="https://raw.githubusercontent.com/steverhall/steverhall/main/svg/dev/misc/healthcare.svg" alt="Healthcare Innovation">
   </a>
-  <a href="https://www.fhir.org/">
-    <img src="https://raw.githubusercontent.com/steverhall/steverhall/main/svg/dev/misc/fhir.svg" alt="FHIR" style="padding-right: 10px">
-  </a>
   <a href="https://www.microsoft.com/en-us/industry/health/microsoft-cloud-for-healthcare">
     <img src="https://raw.githubusercontent.com/steverhall/steverhall/main/svg/dev/misc/mc4h.svg" alt="Microsoft MC4H">
   </a>
@@ -68,9 +65,6 @@
 
 ### Learning and Playing
 <div  style="padding: 16px">
-  <a href="https://www.rust-lang.org/">
-      <img src="https://raw.githubusercontent.com/steverhall/steverhall/main/svg/dev/languages/rust.svg" alt="Rust">
-  </a>
   <a href="https://go.dev/">
       <img src="https://raw.githubusercontent.com/steverhall/steverhall/main/svg/dev/languages/go.svg" alt="Go">
   </a>
